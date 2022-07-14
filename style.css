@@ -1,0 +1,17 @@
+.jumbotron img {
+width: 20%;
+}
+footer{
+    min-height: 50px;
+    padding-top: 15px;
+}
+body{
+    margin-top: 50px;
+    background-image: url(backg.jpg);
+}
+section {
+    padding-top:7rem;
+  }
+.card-body{
+    background-color: rgb(111, 139, 155);
+  }
